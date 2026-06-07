@@ -1,0 +1,21 @@
+# Data (download via pipeline)
+data/telco_raw.csv
+
+# Model artefacts (regenerate via pipeline)
+models/*.pkl
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
