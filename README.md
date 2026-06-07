@@ -39,7 +39,7 @@ telco-churn-ml/
 │   ├── telco_processed.csv        # After cleaning & encoding
 │   └── telco_features.csv         # After feature engineering
 │
-├── notebooks/
+├── notebook/
 │   └── telco_churn_analysis.ipynb # Full narrative walkthrough
 │
 ├── src/
